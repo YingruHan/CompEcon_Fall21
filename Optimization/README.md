@@ -4,8 +4,20 @@ This module of the course covers numerical optimization methods and applies them
 ## 1. Tutorials to get you started
 
 * [Rootfinders and Minimizers in Python](https://github.com/jdebacker/CompEcon_Fall21/blob/main/Optimization/PythonRootMin.ipynb)
+* [Optimization in Python](https://github.com/jdebacker/CompEcon_Fall21/blob/main/Optimization/Optimization.ipynb)
 
-## 2. Useful Links
+## 2. Problem Set
+
+* [Problem Set \#4](https://github.com/jdebacker/CompEcon_Fall21/blob/main/Optimization/PS4.pdf)
+* [Data for PS \#4](https://github.com/jdebacker/CompEcon_Fall21/blob/main/Optimization/PS4_data.dta)
+
+
+## 3. Estimating Inequality
+
+* [Slides](https://github.com/jdebacker/CompEcon_Fall21/blob/main/Optimization/IncomeInequality.pdf)
+* [Notebook](https://github.com/jdebacker/CompEcon_Fall21/blob/main/Optimization/ECM_Estimation.ipynb)
+
+## 4. Useful Links
 
 * [Bisection Method vs. Golden Rule Search](https://chemicalstatistician.wordpress.com/2013/04/22/using-the-bisection-method-with-the-golden-ratio-for-numerical-optimization/)
 * [QuantEcon: Linear regression in Python](https://lectures.quantecon.org/py/ols.html)
